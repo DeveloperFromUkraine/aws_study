@@ -5,3 +5,4 @@
 .idea
 id_rsa.pem
 rootkey.csv
+.DS_Store
